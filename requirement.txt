@@ -19,7 +19,7 @@ idna==2.7
 itsdangerous==0.24
 Jinja2==2.10
 Mail==2.1.0
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 migrate==0.3.8
 pycparser==2.18
